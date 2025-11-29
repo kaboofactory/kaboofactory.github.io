@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigravity App Launcher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="background-gradient"></div>
+
+    <main class="container">
+        <header class="header">
+            <h1>Antigravityで作ったツール(無保証、自己責任でよろ)</h1>
+            <p>Select an application to launch</p>
+        </header>
+
+        <div id="app-grid" class="app-grid">
+            <!-- App cards will be injected here by script.js -->
+            <div class="loading-state">Loading applications...</div>
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <p>Created by <span class="creator-name">カブー</span></p>
+        <a href="https://x.com/kaboo_factory" target="_blank" rel="noopener noreferrer" class="contact-link">Contact</a>
+    </footer>
+
+    <script src="apps_data.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

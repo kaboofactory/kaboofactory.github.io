@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Color Reduction Tool",
+    "path": "../Color Reduction Tool/index.html",
+    "description": "Reduce colors in images with various algorithms."
+  },
+  {
+    "name": "EXIF Checker",
+    "path": "../EXIF Checker/index.html",
+    "description": "Check and remove EXIF data from images."
+  },
+  {
+    "name": "Shogi Game",
+    "path": "../Shogi Game/index.html",
+    "description": "Play Shogi against an AI opponent."
+  }
+]
