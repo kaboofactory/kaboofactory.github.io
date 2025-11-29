@@ -2,7 +2,7 @@ window.APP_LIST = [
   {
     "name": "KabooColorReductionTool",
     "path": "./KabooColorReductionTool/index.html",
-    "description": "パレット指定での減色ツール",
+    "description": "パレット指定での減色ツール(パレットイメージはLOSPEC(PNG Image 8x)とかで入手)",
     "icon": "./KabooColorReductionTool/application.png"
   },
   {
