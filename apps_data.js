@@ -16,5 +16,11 @@ window.APP_LIST = [
     "path": "./KabooEXIFChecker/index.html",
     "description": "EXIF確認・削除ツール",
     "icon": "./KabooEXIFChecker/application.png"
+  },
+  {
+    "name": "KabooBMPFontMaker",
+    "path": "./KabooBMPFontMaker/index.html",
+    "description": "ビットマップフォント(テクスチャ)作成ツール",
+    "icon": "./KabooBMPFontMaker/application.png"
   }
 ];
