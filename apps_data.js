@@ -22,5 +22,11 @@ window.APP_LIST = [
     "path": "./KabooBMPFontMaker/index.html",
     "description": "ビットマップフォント(テクスチャ)作成ツール",
     "icon": "./KabooBMPFontMaker/application.png"
+  },
+  {
+    "name": "KabooFontDiff",
+    "path": "./KabooFontDiff/index.html",
+    "description": "フォント比較ツール",
+    "icon": "./KabooFontDiff/application.png"
   }
 ];
