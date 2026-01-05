@@ -28,5 +28,11 @@ window.APP_LIST = [
     "path": "./KabooFontDiff/index.html",
     "description": "フォント比較ツール",
     "icon": "./KabooFontDiff/application.png"
+  },
+  {
+    "name": "KabooZ80MCUSimulator",
+    "path": "./KabooZ80MCUSimulator/index.html",
+    "description": "Z80 CPU ワンボードマイコンシミュレータ",
+    "icon": "./KabooZ80MCUSimulator/application.png"
   }
 ];
