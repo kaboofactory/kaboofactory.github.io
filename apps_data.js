@@ -34,5 +34,11 @@ window.APP_LIST = [
     "path": "./KabooZ80MCUSimulator/index.html",
     "description": "Z80 CPU ワンボードマイコンシミュレータ",
     "icon": "./KabooZ80MCUSimulator/application.png"
+  },
+  {
+    "name": "KabooSpritefontMaker",
+    "path": "./KabooSpritefontMaker/index.html",
+    "description": "MonoGame用Spritefontファイルメーカー",
+    "icon": "./KabooSpritefontMaker/application.png"
   }
 ];
