@@ -40,5 +40,11 @@ window.APP_LIST = [
     "path": "./KabooSpritefontMaker/index.html",
     "description": "MonoGame用Spritefontファイルメーカー",
     "icon": "./KabooSpritefontMaker/application.png"
+  },
+  {
+    "name": "Mononotonka",
+    "path": "./Mononotonka/index.html",
+    "description": "2Dゲーム用MonoGameラッパーライブラリ",
+    "icon": "./Mononotonka/application.png"
   }
 ];
