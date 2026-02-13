@@ -46,5 +46,11 @@ window.APP_LIST = [
     "path": "./Mononotonka/index.html",
     "description": "2Dゲーム用MonoGameラッパーライブラリ",
     "icon": "./Mononotonka/application.png"
+  },
+  {
+    "name": "KabooTextMerger",
+    "path": "./KabooTextMerger/index.html",
+    "description": "簡単テキストマージツール",
+    "icon": "./KabooTextMerger/application.png"
   }
 ];
