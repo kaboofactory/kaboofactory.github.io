@@ -52,5 +52,11 @@ window.APP_LIST = [
     "path": "./KabooTextMerger/index.html",
     "description": "簡単テキストマージツール",
     "icon": "./KabooTextMerger/application.png"
+  },
+  {
+    "name": "KabooRetroGameColorReductionTool",
+    "path": "./KabooRetroGameColorReductionTool/index.html",
+    "description": "ファミコン風減色ツール",
+    "icon": "./KabooRetroGameColorReductionTool/application.png"
   }
 ];
